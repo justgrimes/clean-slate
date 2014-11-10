@@ -1,0 +1,24 @@
+{
+    "status": "Production",
+    "thumbnailUrl":"",
+    "needs": [
+        {"need":""},
+    ],
+    "bornAt": "Rebuilding Re-entry Hackathon",
+    "type": "Web App",
+    "categories": [
+        {"category":"Government"},
+        {"category":"Open Data"}
+    ],
+    "geography": "Washington, DC",
+    "contact":
+        {
+            "name": "",
+            "email": "jgrimes@codeforamerica.org",
+            "twitter": ""
+        },
+    "communityPartner": {},
+    "politicalEntity": {""},
+    "governmentPartner": {},
+    "moreInfo": ""
+}
